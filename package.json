@@ -1,7 +1,7 @@
 {
     "name": "JamesTown",
     "preductname": "JamesTown",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "Launcher Mincraft pour le serveur JamesTown",
     "main": "src/app.js",
     "author": {
